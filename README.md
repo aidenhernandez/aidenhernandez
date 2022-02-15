@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidenhernandez
-- 👀 I’m interested in learning javascript related frameworks and backend technologies
-- 🌱 I’m currently learning full stack development
+- 👀 I work and learn building projects based on javascript related frameworks and backend technologies
+- 🌱 I build full stack apps
 - 💞️ I’m looking to collaborate on projects that are created with awareness and serve a purpose to users
 - 📫 How to reach me: Linkedin or through my portfolio page https://aidenhernandez.github.io/
 
