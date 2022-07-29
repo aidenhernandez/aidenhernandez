@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aidenhernandez
+- 👋 Hi, I’m Adan Hernandez
 - 👀 I work and learn building projects based on javascript related frameworks and backend technologies
 - 🌱 I build full stack apps
 - 💞️ I’m looking to collaborate on projects that are created with awareness and serve a purpose to users
